@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bets.covid19"]
+	path = bets.covid19
+	url = https://github.com/qingyuanzhao/bets.covid19
+	shallow = true
+	registered = true
