@@ -2,5 +2,13 @@
   {
     "package": "bets.covid19",
     "oncran": true
+  },
+  {
+    "package": "mr.raps",
+    "oncran": true
+  },
+  {
+    "package": "seismic",
+    "oncran": true
   }
 ]
