@@ -8,6 +8,11 @@
 	url = https://github.com/qingyuanzhao/bets.covid19
 	shallow = true
 	registered = true
+[submodule "cate"]
+	path = cate
+	url = https://github.com/cran/cate
+	shallow = true
+	registered = true
 [submodule "mr.raps"]
 	path = mr.raps
 	url = https://github.com/qingyuanzhao/mr.raps
