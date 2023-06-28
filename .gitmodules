@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "bets.covid19"]
 	path = bets.covid19
 	url = https://github.com/qingyuanzhao/bets.covid19
-	shallow = true
-	registered = true
 [submodule "cate"]
 	path = cate
 	url = https://github.com/cran/cate
-	shallow = true
-	registered = true
 [submodule "mr.raps"]
 	path = mr.raps
 	url = https://github.com/qingyuanzhao/mr.raps
-	shallow = true
-	registered = true
 [submodule "seismic"]
 	path = seismic
 	url = https://github.com/qingyuanzhao/seismic
-	shallow = true
-	registered = true
