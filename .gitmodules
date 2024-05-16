@@ -5,6 +5,9 @@
 [submodule "bets.covid19"]
 	path = bets.covid19
 	url = https://github.com/qingyuanzhao/bets.covid19
+[submodule "cate"]
+	path = cate
+	url = https://github.com/cran/cate
 [submodule "mr.raps"]
 	path = mr.raps
 	url = https://github.com/qingyuanzhao/mr.raps
